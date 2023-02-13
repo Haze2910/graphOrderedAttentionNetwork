@@ -1,1 +1,1 @@
-# graphOrderedAttentionNetwork
+# Graph Ordered Attention Network
